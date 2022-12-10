@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="SkyDrop">#00BCD4</color>
+    <color name="AroWra">#1DB16C</color>
+    <color name="BackColor">#DDF5BA31</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#fc2246</color>
+</resources>
